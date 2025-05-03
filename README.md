@@ -22,22 +22,22 @@
 
 <h1 align="center">Hey there 👋</h1>
 
-<h3 align="center">A passionate Data Engineer from [Your Location]</h3>
+<h3 align="center">A passionate Data Engineer from Lebanon</h3>
 
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently working as a **Data Engineer**
 - 🌱 I'm currently learning **Data Science**
 - 💻 I improve my problem-solving skills with **LeetCode** challenges
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com)
-- ⚡ Fun fact: [Your fun fact]
+- 📫 How to reach me: [huseinelsaadi@gmail.com](mailto:huseinelsaadi@gmail.com)
+- ⚡ Fun fact: Keep it Simple :)
 
 ---
 
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" title="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="Docker" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
@@ -83,7 +83,7 @@
   <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:huseinelsaadi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://medium.com/" target="_blank">
@@ -97,5 +97,5 @@
   <img src="https://profile-counter.glitch.me/husseinelsaadii/count.svg" alt="Visitor Count" />
 </div>
 
-<!-- Snake animation (optional) -->
-<!-- ![Snake animation](https://github.com/husseinelsaadii/husseinelsaadii/blob/output/github-contribution-grid-snake.svg) -->
+<!-- Snake animation -->
+![Snake animation](https://github.com/husseinelsaadii/husseinelsaadii/blob/output/github-contribution-grid-snake.svg)
