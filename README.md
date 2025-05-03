@@ -132,4 +132,6 @@
 
 <img src="https://raw.githubusercontent.com/husseinelsaadii/husseinelsaadii/output/snake.svg" alt="Snake animation" />
 
+![snake gif](https://github.com/husseinelsaadii/husseinelsaadii/blob/output/snake.svg)
+
 ###
