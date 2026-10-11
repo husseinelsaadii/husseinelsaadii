@@ -118,6 +118,8 @@ Focused on deep learning and natural language processing.
 
 ---
 
+<img alt="Contribution graph as a snake game" src="https://raw.githubusercontent.com/husseinelsaadii/husseinelsaadii/output/snake.svg">
+
 <p align="center">
   <sub>Open to work on AI systems that make it to production. <a href="mailto:huseinelsaadi@gmail.com">Get in touch →</a></sub>
 </p>
